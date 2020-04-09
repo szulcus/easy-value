@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/easy-value/static/css/main.3c7c0bc2.chunk.css",
+    "main.js": "/easy-value/static/js/main.5f3b95a2.chunk.js",
+    "main.js.map": "/easy-value/static/js/main.5f3b95a2.chunk.js.map",
+    "runtime-main.js": "/easy-value/static/js/runtime-main.89554a5c.js",
+    "runtime-main.js.map": "/easy-value/static/js/runtime-main.89554a5c.js.map",
+    "static/js/2.e922e701.chunk.js": "/easy-value/static/js/2.e922e701.chunk.js",
+    "static/js/2.e922e701.chunk.js.map": "/easy-value/static/js/2.e922e701.chunk.js.map",
+    "index.html": "/easy-value/index.html",
+    "precache-manifest.7b944178ea1c905c9ad9f1f394bb3356.js": "/easy-value/precache-manifest.7b944178ea1c905c9ad9f1f394bb3356.js",
+    "service-worker.js": "/easy-value/service-worker.js",
+    "static/css/main.3c7c0bc2.chunk.css.map": "/easy-value/static/css/main.3c7c0bc2.chunk.css.map",
+    "static/js/2.e922e701.chunk.js.LICENSE.txt": "/easy-value/static/js/2.e922e701.chunk.js.LICENSE.txt",
+    "static/media/circle-border.svg": "/easy-value/static/media/circle-border.9a928abc.svg",
+    "static/media/circle.svg": "/easy-value/static/media/circle.a6a21606.svg",
+    "static/media/hexagon-border.svg": "/easy-value/static/media/hexagon-border.bf7d93da.svg",
+    "static/media/hexagon.svg": "/easy-value/static/media/hexagon.43266d99.svg",
+    "static/media/icon.svg": "/easy-value/static/media/icon.a8a96b94.svg",
+    "static/media/linear.svg": "/easy-value/static/media/linear.675c0f9a.svg",
+    "static/media/logo.png": "/easy-value/static/media/logo.08adfec6.png",
+    "static/media/quadratic.svg": "/easy-value/static/media/quadratic.eadbef7e.svg",
+    "static/media/scroll.svg": "/easy-value/static/media/scroll.3241e4b6.svg",
+    "static/media/square-border.svg": "/easy-value/static/media/square-border.b55702a9.svg",
+    "static/media/square.svg": "/easy-value/static/media/square.0bf613c7.svg",
+    "static/media/triangle-border.svg": "/easy-value/static/media/triangle-border.71928223.svg",
+    "static/media/triangle.svg": "/easy-value/static/media/triangle.c7e04dbc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89554a5c.js",
+    "static/js/2.e922e701.chunk.js",
+    "static/css/main.3c7c0bc2.chunk.css",
+    "static/js/main.5f3b95a2.chunk.js"
+  ]
+}
