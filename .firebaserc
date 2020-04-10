@@ -1,5 +1,17 @@
 {
   "projects": {
     "default": "easyword"
+  },
+  "targets": {
+    "easyword": {
+      "hosting": {
+        "app": [
+          "easyvalue"
+        ],
+        "value-app": [
+          "easy-value"
+        ]
+      }
+    }
   }
 }

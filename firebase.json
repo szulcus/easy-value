@@ -4,12 +4,21 @@
       "npm --prefix \"$RESOURCE_DIR\" run lint"
     ]
   },
-  "hosting": {
+  "hosting": [{
+    "target": "value-app",
     "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ]
-  }
+    ]},
+    {
+    "target": "word-app",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]}
+  ]
 }

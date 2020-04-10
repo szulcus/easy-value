@@ -14,6 +14,7 @@ import functionIcon from '../../Images/functions/icon.svg'
 const AppComponent = styled.div`
 	width: 100vw;
 	height: 100vh;
+	height: calc(var(--vh, 1vh) * 100);
 	overflow-y: scroll;
 	::-webkit-scrollbar {
 		width: 0;
@@ -101,6 +102,12 @@ class App extends Component {
 		document.getElementById('list').scrollIntoView({behavior: 'smooth', block: 'start'})
 	}
 	render() {
+		let vh = window.innerHeight * 0.01;
+		document.documentElement.style.setProperty('--vh', `${vh}px`);
+		window.addEventListener('resize', () => {
+			let vh = window.innerHeight * 0.01;
+			document.documentElement.style.setProperty('--vh', `${vh}px`);
+		});
 		return (
 			<AppComponent id="app">
 				<Welcome logo={logo} scroll={this.scrollDown} stats={this.state.stats} />
