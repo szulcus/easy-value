@@ -3,6 +3,7 @@
   "short_name": "EasyValue",
   "theme_color": "#000000",
   "background_color": "#000000",
+  "display": "standalone",
   "icons": [
     {
       "src": "icons/72x72.png",
